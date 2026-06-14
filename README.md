@@ -38,6 +38,70 @@
 
 这些模块不是孤立工具。缺一层，后面的判断就容易失真。
 
+## 这套私教 skill 怎么构成
+
+目前它不是一堆互相独立的 skill，而是一个复合 skill：
+
+```text
+总入口：
+skills/aka-private-shortvideo-acquisition-diagnosis/SKILL.md
+
+子流程：
+skills/aka-private-shortvideo-acquisition-diagnosis/references/project-scaffold.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/initialization.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/content-diagnosis.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/topic-bank.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/case-material-bank.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/review-diagnosis.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/common-qa.md
+skills/aka-private-shortvideo-acquisition-diagnosis/references/private-domain-advanced.md
+```
+
+总入口负责三件事：
+
+1. 先判断用户的问题在获客链路哪一层。
+2. 再读取对应子流程。
+3. 最后把诊断结果拉回同一套账号底盘、精准用户、内容边界和知识库写入规则。
+
+子流程负责具体动作：
+
+1. `project-scaffold.md`：第一次建项目骨架，避免一堆 md 平铺在根目录。
+2. `initialization.md`：重新看生意、用户处境、卖什么和下一步动作。
+3. `content-diagnosis.md`：诊断单条选题、脚本、开头、产品介绍、服务介绍、免费资料介绍。
+4. `topic-bank.md`：建设精准选题库，包括热点筛选、状态管理、防跑偏。
+5. `case-material-bank.md`：把客户原话、反馈、截图、服务过程沉淀成案例和素材。
+6. `review-diagnosis.md`：发布后看播放、评论、私信、问价、加微信、成交，判断有没有吸引对的人。
+7. `common-qa.md`：处理一机一号、权重、发布时间、日更隔日更这些执行焦虑。
+8. `private-domain-advanced.md`：已有线索后，再诊断私信、微信、社群和成交承接。
+
+## 能不能直接用子流程
+
+可以，但要分情况。
+
+普通用户日常使用，建议直接用总入口：
+
+```text
+使用 MrCarlsama短视频获客全链路诊断私教，帮我看这个问题。
+```
+
+这样最稳。因为很多人以为自己是在问“开头怎么写”，实际问题可能是用户不准；以为自己缺选题，实际是卖的东西没说清；以为自己要私域话术，实际是公域内容筛来的人不对。总入口会先判断层级，再分配到子流程。
+
+如果你已经很清楚自己要处理哪一层，也可以直接指定子流程：
+
+```text
+使用 MrCarlsama短视频获客全链路诊断私教，进入单条内容诊断。
+```
+
+```text
+使用 MrCarlsama短视频获客全链路诊断私教，进入精准选题库建设。
+```
+
+```text
+使用 MrCarlsama短视频获客全链路诊断私教，进入发布后复盘。
+```
+
+不建议直接让 AI 跳过总入口去读某个 `references/*.md` 文件，除非你是在开发、测试或调试这个 skill。因为子流程只管一层，容易丢掉账号底盘、用户处境、知识库写入确认这些全局规则。
+
 ## 使用后会获得什么
 
 持续使用这个 skill，你会得到一套越来越准的短视频获客工作台：
