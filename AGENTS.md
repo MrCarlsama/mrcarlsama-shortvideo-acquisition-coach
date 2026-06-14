@@ -10,6 +10,7 @@
 
 1. 先读 `skills/aka-private-shortvideo-acquisition-diagnosis/SKILL.md`。
 2. 再根据用户任务读取对应 reference：
+   - 初始化项目骨架：`references/project-scaffold.md`
    - 初始化诊断：`references/initialization.md`
    - 单条内容诊断：`references/content-diagnosis.md`
    - 选题库建设：`references/topic-bank.md`
@@ -51,6 +52,8 @@ Codex 可能需要重开线程或重载后才会识别新版 skill。
 1. 现在最想靠短视频卖出去的具体东西是什么。
 2. 这一单多少钱，谁掏钱，谁使用，谁可能反对。
 3. 用户为什么现在非解决不可。
+
+第一次初始化项目时，不要在根目录平铺生成 md 文件。必须按 `references/project-scaffold.md` 创建固定目录骨架。业务结论写入前仍然要问用户确认。
 
 ## 禁止动作
 
