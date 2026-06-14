@@ -1,18 +1,31 @@
-# Aka Content Skills
+# MrCarlsama短视频获客私教
 
-Temporary staging repository for Aka content and short-video acquisition skills.
+这是 MrCarlsama 短视频获客私教 skill 的临时仓库，后续可推到 GitHub 或安装到 Codex skills 目录。
 
-Current status:
+## 当前状态
 
-- This repo is for skill design drafts and future Codex skill folders.
-- Do not treat any design note as a finished skill until it has an explicit `SKILL.md`.
-- The first planned composite skill is `aka-private-shortvideo-acquisition-diagnosis`, name pending final approval.
+- 第一版复合 skill 已经有正式入口：
+  `skills/aka-private-shortvideo-acquisition-diagnosis/`.
+- `design-notes/` 里的内容仍然是草稿，只有进入 skill 文件夹并带有 `SKILL.md` 的内容才算可用 skill。
 
-## Layout
+## 这个 skill 解决什么
+
+它不是普通文案助手，而是短视频获客内容诊断私教。
+
+核心任务：
+
+- 初始化账号底盘：先看生意，再看用户处境。
+- 诊断单条内容：判断选题、脚本、产品介绍、服务介绍、资料介绍有没有服务精准用户。
+- 建设精准选题库：没有爆款选题，只有精准选题。
+- 整理案例库和素材库：把真实反馈、服务过程、用户原话变成信任证据。
+- 做发布后复盘：判断吸引的人对不对，需求有没有被激活。
+- 处理疑难杂症：一机一号、养号、权重、发布时间、日更和隔日更等执行焦虑。
+- 必要时进入私域承接诊断：只在已有线索和承接入口时使用。
+
+## 目录结构
 
 ```text
-skills/        Future Codex skill folders.
-design-notes/  Design notes and initialization-dialog drafts.
-references/    Method references used by skills when needed.
+skills/        正式 skill 文件夹。
+design-notes/  设计草稿和对话过程沉淀。
+references/    未来可复用的方法论资料。
 ```
-

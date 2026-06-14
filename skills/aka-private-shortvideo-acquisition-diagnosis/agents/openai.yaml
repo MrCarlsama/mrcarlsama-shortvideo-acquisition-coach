@@ -1,0 +1,4 @@
+interface:
+  display_name: "MrCarlsama短视频获客私教"
+  short_description: "按小鄂老师获客方法论，诊断短视频内容、精准选题、案例素材、复盘和进阶私域承接。"
+  default_prompt: "使用 $MrCarlsama短视频获客私教，先读取我的知识库，再判断我当前内容应该进入初始化、单条内容诊断、选题库建设、案例素材沉淀、复盘诊断，还是进阶私域承接。"
