@@ -94,6 +94,8 @@ skills/aka-private-shortvideo-acquisition-diagnosis/references/project-scaffold.
 
 注意：创建目录和写入业务结论是两件事。目录可以作为项目骨架创建；卖什么、用户是谁、内容边界、客户语言这些业务结论，必须等用户确认后再写入。
 
+进入初始化诊断前，AI 必须先读取 `project-scaffold.md`，再读取 `initialization.md`。不能只读初始化问答规则后临时发挥目录结构。
+
 所有写入的 md 都要人类可读。也就是说，打开文件的人应该能看懂这页管什么、当前结论是什么、依据是什么、下一步做什么，而不是只看到一堆 AI 才方便解析的字段。
 
 ## 当前状态

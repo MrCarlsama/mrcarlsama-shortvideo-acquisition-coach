@@ -53,7 +53,7 @@ Codex 可能需要重开线程或重载后才会识别新版 skill。
 2. 这一单多少钱，谁掏钱，谁使用，谁可能反对。
 3. 用户为什么现在非解决不可。
 
-第一次初始化项目时，不要在根目录平铺生成 md 文件。必须按 `references/project-scaffold.md` 创建固定目录骨架。业务结论写入前仍然要问用户确认。
+第一次初始化项目时，不要在根目录平铺生成 md 文件。进入初始化诊断前必须先完整读取 `references/project-scaffold.md`，再读取 `references/initialization.md`。必须按 `references/project-scaffold.md` 创建固定目录骨架。业务结论写入前仍然要问用户确认。
 
 写入 md 时，不要只写给 AI 检索。每个文件都要让人打开就能看懂：这页管什么、当前结论是什么、依据是什么、下一步做什么。
 
