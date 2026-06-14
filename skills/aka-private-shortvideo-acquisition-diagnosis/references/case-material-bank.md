@@ -1,27 +1,29 @@
-# Case and Material Bank Workflow
+# 案例库和素材库流程
 
-Use this when the user provides a customer story, consultation, feedback, screenshot, delivery process, user quote, objection, failure, or service result.
+当用户提供客户故事、咨询记录、用户反馈、截图、交付过程、客户原话、异议、失败案例、服务结果时，使用这个流程。
 
-## Guiding Thought
+## 指导思想
 
-The case bank and material bank are not archives. They are weapons for the next round of content, private-domain trust, and conversion.
+案例库和素材库不是仓库，不是为了存得好看。它们是下一轮内容、私域信任和成交承接的弹药。
 
-Products, knowledge, and services become more similar over time. The difference is whether the account can keep evidence: customer feedback, before/after changes, real questions, service processes, objections, and verifiable details.
+产品会越来越像，知识也会越来越像，服务说辞也会越来越像。最后能拉开差距的，是账号有没有留下证据：客户反馈、前后变化、真实问题、服务过程、异议、截图、可验证细节。
 
-A case is not bragging material. It is trust evidence. High-ticket users do not lack promises; they lack proof that similar problems have been solved.
+案例不是拿来炫耀的，是拿来证明“类似问题我解决过”。高客单用户不缺承诺，缺的是证据。
 
-A material is not an inspiration fragment. It is a reusable asset. A customer quote, negative feedback, consultation question, objection, screenshot, or before/after comparison can become a topic, a trust point, or a purchase reason.
+素材不是灵感碎片，是能反复使用的资产。客户一句吐槽、一次差评、一个咨询问题、一张截图、一次前后对比，都可能变成选题、信任点或购买理由。
 
-## Difference
+例子要贴近中国实际生意场景：家长为什么报课、老板为什么不敢上 AI、装修客户为什么怕增项、门店老板为什么怕没客流、摄影客户为什么怕成片不好看、知识付费用户为什么怕买完不用。
 
-- Case bank: a complete event.
-- Material bank: a reusable fragment.
+## 案例和素材的区别
 
-Case bank answers: how does this event prove the account can solve a problem?
+- 案例库：一件完整的事。
+- 素材库：一块可复用的料。
 
-Material bank answers: where can this piece be reused?
+案例库回答：这件事怎么证明账号能解决问题？
 
-## Case Card
+素材库回答：这块料以后能用在哪里？
+
+## 案例卡片
 
 ```text
 案例标题：
@@ -42,7 +44,7 @@ Material bank answers: where can this piece be reused?
 状态：待确认 / 可用 / 已用 / 复盘后保留 / 不再使用
 ```
 
-## Material Card
+## 素材卡片
 
 ```text
 素材标题：
@@ -57,39 +59,39 @@ Material bank answers: where can this piece be reused?
 状态：待验证 / 可用 / 已用 / 淘汰
 ```
 
-## Entry Standard
+## 入库标准
 
-At least one must be true:
+至少满足一条：
 
-- Proves the user is understood.
-- Proves a real problem was solved.
-- Provides customer language.
-- Explains a user situation.
-- Can become a topic.
-- Can support conversion trust.
-- Shows a mistake or risk to avoid.
+- 证明你懂用户。
+- 证明一个真实问题被解决过。
+- 提供客户语言。
+- 解释一个用户处境。
+- 能变成选题。
+- 能支持信任和成交。
+- 能提醒用户避坑。
 
-Do not store meaningless diaries.
+不要把没意义的流水账存进去。
 
-## Invalid Cases
+## 无效案例
 
-Do not treat these as qualified cases by themselves:
+下面这些单独看不算合格案例：
 
-- "The customer was satisfied."
-- "The result was good."
-- "I am professional."
-- No user situation.
-- No before/after change.
-- No quote, screenshot, data, process record, or verifiable detail.
-- Self-touching story that proves nothing.
+- “客户很满意。”
+- “效果很好。”
+- “我很专业。”
+- 没有用户处境。
+- 没有前后变化。
+- 没有原话、截图、数据、过程记录或可验证细节。
+- 只感动自己，不能证明什么。
 
-## Content Reuse
+## 内容复用
 
-For every case/material, judge where it can serve:
+每个案例 / 素材都要判断以后能服务哪里：
 
-- Acquisition: user pain is clear and can trigger consultation.
-- Persona: shows judgment standard, method, values, or service attitude.
-- Conversion: provides before/after change, feedback, result proof, or objection handling.
-- Exposure: has broad scene, strong conflict, or clear resonance.
+- 获客：用户痛点清楚，能引发咨询。
+- 人设：能看出你的判断标准、方法、价值观或服务态度。
+- 成交：能提供前后变化、反馈、结果证明或异议处理。
+- 曝光：有大众场景、强冲突或强共鸣。
 
-Before writing anything, follow the write-confirmation rule in `SKILL.md`.
+写入任何东西前，都必须按 `SKILL.md` 的知识库写入规则先问用户。

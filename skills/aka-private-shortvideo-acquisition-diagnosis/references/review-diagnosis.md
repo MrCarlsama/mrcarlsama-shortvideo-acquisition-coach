@@ -1,31 +1,33 @@
-# Review Diagnosis Workflow
+# 发布后复盘诊断流程
 
-Use this after content has been published: data, comments, messages, consultations, sales results, or weekly review.
+内容已经发布后，用户拿来播放、点赞、收藏、评论、私信、咨询、成交情况或周复盘时，使用这个流程。
 
-## Guiding Thought
+## 指导思想
 
-Review is not a vanity data report. It checks whether the content moved the acquisition chain.
+复盘不是写一份好看的数据报告，也不是因为播放高就夸、播放低就否定。
 
-Views, likes, saves, and comments are signals. The real questions are:
+复盘要看这条内容有没有推动获客链路：
 
-- Did the right people come?
-- Was real demand activated?
-- Did customer language appear?
-- Did the user move to the next action?
-- Did new reusable assets appear?
+- 来的人是不是对的人？
+- 有没有暴露真实问题？
+- 有没有出现客户语言？
+- 用户有没有往下一步走？
+- 有没有留下能复用的选题、案例或素材？
 
-## SOP
+中国短视频账号最容易误判：一条视频播放高，就以为方向对；一条视频播放低但来了精准咨询，又以为失败。复盘要看业务信号，不只看热闹。
 
-1. Read the original topic card or reconstruct it.
-2. Identify the intended content type.
-3. Compare expected user/action with actual feedback.
-4. Diagnose people, demand, customer language, next action, and handoff.
-5. Decide topic state.
-6. Suggest knowledge-base deposits only after explaining where/what/why.
+## 复盘顺序
 
-## Original Goal Reconstruction
+1. 先读原选题卡；没有就现场还原。
+2. 判断这条内容原本属于哪类内容。
+3. 对比预期用户 / 预期动作和实际反馈。
+4. 诊断人群、需求、客户语言、下一步动作和承接。
+5. 决定选题状态。
+6. 如果有值得沉淀的内容，先说明写进哪里、写什么、为什么值得写，再等用户确认。
 
-If no topic card exists, reconstruct:
+## 原始目标还原
+
+没有选题卡时，先还原：
 
 ```text
 这条内容原本想吸引谁：
@@ -34,29 +36,31 @@ If no topic card exists, reconstruct:
 预期下一步动作：
 ```
 
-## How To Know It Did Not Drift
+## 什么叫没跑偏
 
-Not drifting means:
+没跑偏不是“播放好看”，而是：
 
-- The attracted people match the target user.
-- Users expose real questions or situations.
-- The feedback matches the intended content type.
-- Users move at least one step in 5A.
-- Customer language appears in comments/messages.
-- The next action can be taken and handed off.
-- The content produces reusable assets.
+- 吸引来的人和目标用户一致。
+- 评论、私信或咨询里出现真实问题。
+- 反馈符合原本的内容类型。
+- 用户至少往前走了一步：关注、领资料、问价、发需求、加微信、预约、下单。
+- 评论或私信里出现客户语言。
+- 下一步动作能被接住。
+- 这条内容产出了可复用资产。
 
-## Data Interpretation
+## 数据怎么看
 
-- High views + few precise consultations: likely generic traffic.
-- Low views + precise consultations: keep; demand may be accurate but expression/distribution needs work.
-- High saves + low messages: useful knowledge, weak action reason.
-- Many arguments: check whether the argument belongs to target users.
-- Many messages + freebie seekers: material handoff or screening mechanism is weak.
-- Many follows + few consultations: persona works, acquisition action may be unclear.
-- Sales progressed: deposit purchase reasons, objections, cases, and useful wording.
+- 播放高，但几乎没有精准咨询：可能是泛流量，先别兴奋。
+- 播放低，但来了精准咨询：先保留，需求可能准，表达或分发还要改。
+- 收藏高，私信少：知识有用，但行动理由不够强。
+- 评论区吵起来：先看吵的人是不是目标用户，不是就别被带偏。
+- 私信多但都是白嫖资料：资料承接或筛选机制弱。
+- 涨粉多但咨询少：人设可能有效，但获客动作不清楚。
+- 有成交推进：沉淀购买理由、异议、案例和客户原话。
 
-## Output
+中国实际场景里，要特别看这些业务信号：有没有人问价格、问周期、发户型图、发孩子成绩、发门店情况、问能不能上门、问能不能给公司做、问有没有类似案例。
+
+## 输出
 
 ```text
 【复盘结论】
@@ -92,11 +96,11 @@ Not drifting means:
 等待用户确认：
 ```
 
-## Topic State Flow
+## 选题状态流转
 
-- `已发布 -> 保留`: precise users, consultations, customer language, or reusable case appears.
-- `已发布 -> 重做`: direction right, but language/type/structure/handoff wrong.
-- `已发布 -> 淘汰`: wrong users, no real demand, cannot deliver, long-term no business signal.
-- `已发布 -> 待澄清`: feedback is contradictory and cannot explain user/demand.
+- `已发布 -> 保留`：来了精准用户、咨询、客户语言或可复用案例。
+- `已发布 -> 重做`：方向对，但语言、内容类型、结构或承接错了。
+- `已发布 -> 淘汰`：吸引错人、没有真实需求、承接不了，或者长期没有业务信号。
+- `已发布 -> 待澄清`：反馈互相矛盾，还解释不清用户和需求。
 
-Do not judge only by views, likes, or one accidental spike.
+不要只凭播放、点赞，或者一次偶然爆量下结论。

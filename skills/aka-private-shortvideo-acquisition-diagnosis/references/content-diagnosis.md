@@ -1,104 +1,106 @@
-# Single Content Diagnosis Workflow
+# 单条内容诊断流程
 
-Use this for any acquisition-related content asset: topic, script, opening, product intro, service intro, course intro, free document intro, case expression, or graphic content.
+当用户丢来选题、脚本、开头、产品介绍、服务介绍、课程介绍、免费资料介绍、案例表达、图文内容时，使用这个流程。
 
-## Responsibility
+## 职责
 
-Diagnose framework only. Do not rewrite complete copy by default.
+只诊断内容框架，不默认替用户写完整文案。
 
-The user should appear as the most real version of themselves, using their own way to express content. Keep useful original phrasing when it carries real experience, judgment, or personal flavor.
+短视频里要让用户做真实的自己，用自己的说法表达。用户原文里有真实经历、判断、客户原话、行业现场感时，优先保留，不要改成统一网感腔。
 
-## Input Scope
+输出要符合中国人的表达习惯。例子优先用中国实际场景：装修、门窗、餐饮、美业、摄影、教培、本地门店、企业咨询、AI 交付、知识付费、老板/财务/合伙人/家人/员工的决策关系。
 
-Do not reject the input because it is not a short-video oral script.
+## 输入范围
 
-- Topic: diagnose direction, user situation, demand, solution direction.
-- Opening: diagnose whether precise users would stop.
-- Full script: diagnose overall framework.
-- Case: judge whether it can become a topic, case asset, or trust evidence.
-- Product/service/course intro: judge whether it starts from the user's problem, not the creator's features.
-- Free document/material intro: judge whether it screens precise users or only attracts freebie seekers.
-- Vague idea: first reconstruct user situation.
+不要因为用户发来的不是口播稿就拒绝诊断。
 
-## SOP
+- 只有一句选题：先判断方向、用户处境、需求和解决方向。
+- 只有开头：只判断精准用户会不会停下来，不展开整条内容。
+- 有完整脚本：诊断整体框架。
+- 有案例：判断它适不适合变成选题、案例资产或信任证据。
+- 产品/服务/课程介绍：看它是从用户问题出发，还是只在说自己有什么。
+- 免费文档/资料介绍：看它是在筛精准用户，还是只会吸引白嫖党。
+- 模糊想法：先还原用户处境，不急着判内容类型。
 
-1. Read the user's knowledge base.
-2. Identify the content asset type.
-3. Match it to a business situation.
-4. Diagnose user demand.
-5. Classify the four content types.
-6. Identify the precise user.
-7. Diagnose customer language.
-8. Check drift risk.
-9. Diagnose framework.
-10. End with stop-loss action.
+## 诊断顺序
 
-## User Demand Diagnosis
+1. 先读用户知识库。
+2. 判断用户发来的是什么内容资产。
+3. 对应到哪一单生意。
+4. 判断有没有真实需求。
+5. 判断四类内容。
+6. 判断服务哪类精准用户。
+7. 判断客户语言。
+8. 判断跑偏风险。
+9. 诊断框架。
+10. 最后只给一个止损动作。
 
-Do not start with technique. Check whether the content contains real demand.
+## 用户需求诊断
 
-Use these internal questions:
+不要一上来讲技巧。先看这条内容里有没有真实需求。
 
-1. Where does the demand happen?
-2. What emotion is the user in?
-3. Where does the user pay?
-4. What payment behavior appears?
-5. What identity is the user in at that moment?
-6. What is the user's payment motive?
-7. What causes negative feedback?
-8. What competing solution does the user compare with?
-9. What do extreme users complain about or demand?
+内部按这 9 个问题判断：
 
-If a content asset only has opinion, technique, or structure, but no user situation, mark "demand not established".
+1. 这个需求发生在什么场景里？比如装修快进场、孩子快升学、老板要招人、门店客流下滑、团队开始用 AI 但没人会管。
+2. 用户当时是什么情绪？着急、怕踩坑、嫌麻烦、怕丢脸、怕花冤枉钱、怕被老板追责。
+3. 用户在哪个地方准备花钱？门店、微信、抖音私信、公司预算、家庭预算、老板个人钱包。
+4. 用户的付费动作是什么？问价、约时间、发户型图、发需求表、加微信、要方案、要案例、问能不能上门。
+5. 用户当时是什么身份？老板、宝妈、夫妻里的预算方、门店老板、摄影客户、教培家长、公司负责人、普通上班族。
+6. 用户为什么愿意付费？省时间、避坑、解决眼前麻烦、让老板满意、让家里人放心、让项目别拖。
+7. 用户为什么会差评或反悔？没效果、听不懂、交付慢、太麻烦、承诺过头、价格说不清、售后没人管。
+8. 用户会拿你和谁比？熟人介绍、当地门店、小红书攻略、淘宝低价、同行老师、公司内部员工、免费教程。
+9. 最极端的用户会抱怨什么？“我都花钱了还要我自己弄？”“你说得好听，落地谁来做？”“为什么别人家便宜一半？”
 
-## Four Content Types
+如果内容只有观点、技巧、结构，没有用户处境，就标记为：`需求没立住`。
 
-Every content asset must have one main type.
+## 四类内容
 
-- Exposure: seeks larger reach but still needs precise users.
-- Acquisition: makes users interested, curious, willing to ask, claim, consult, or leave contact.
-- Conversion: pushes purchase, booking, payment, or decision.
-- Persona: builds trust and upgrades users.
+每条内容只能先选一个主任务。
 
-One main type only. Side effects are allowed.
+- 曝光内容：让更多人看见，但也不能吸引乱七八糟的人。
+- 引流获客内容：让精准用户感兴趣、想了解、想领资料、想咨询。
+- 成交内容：推动问价、预约、下单、付款或做决定。
+- 人设内容：让用户认识你、相信你、知道你做事的标准。
 
-If the content tries to be exposure, acquisition, conversion, and persona at once, ask the user to choose the main task before detailed diagnosis.
+一条内容可以有副作用，但主任务只能有一个。
 
-## Customer Language
+如果一条内容又想曝光、又想引流、又想成交、又想做人设，先让用户选主任务，再诊断细节。
 
-Check whether the words are what users say, search, understand, and repeat.
+## 客户语言
 
-Judge:
+判断内容里的词是不是用户会说、会搜、听得懂、愿意复述的话。
 
-- Are keywords customer words or industry words?
-- Is there a broad keyword that makes the right user stop?
-- Is there a small problem and fine method that supports acquisition?
-- Are internal terms translated into outside language?
-- Does the language match the user's situation and information source?
+检查：
 
-Do not fabricate customer quotes. If inferred, label it as a direction, not a real quote.
+- 关键词是客户会说的话，还是行业内部叫法？
+- 有没有一个宽词能让对的人停下来？
+- 有没有一个小问题和细方法，能让用户觉得“这说的是我”？
+- 有没有把内行话翻成外行能听懂的话？
+- 语言是否符合用户的信息来源？抖音用户、小红书用户、老板、家长、本地客户，说话方式不一样。
 
-## Drift Risks
+不要编造客户原话。推测出来的，只能写成“可以往这个方向找客户语言”，不能写成真实引用。
 
-Call out the biggest drift risk:
+## 跑偏风险
 
-- Generic traffic instead of precise users.
-- AI thinking becoming pure tool tutorial.
-- Ordinary-person practice becoming boss/high-ticket consulting before the user can deliver it.
-- User situation becoming personal expression.
-- Professional jargon replacing customer language.
-- Pain without solution direction.
-- Over-selling before trust exists.
-- Promise beyond delivery capacity.
+只指出最大的一个跑偏风险：
 
-## Output
+- 追泛流量，没筛精准用户。
+- AI 思维讲成了 AI 工具教程。
+- 普通人实操讲成了老板高客单咨询，自己承接不住。
+- 用户处境没讲清，变成自我表达。
+- 行业内行话太多，客户听不懂。
+- 只讲痛点，没有解决方向。
+- 信任还没建立，就急着卖。
+- 承诺超过当前交付能力。
+
+## 输出
 
 ```text
 【结论】
 发布测试 / 只改一层 / 先别发
 
 【知识库匹配】
-对应的用户处境：
+对应哪类用户处境：
 和当前生意是否一致：
 
 【内容资产类型】
@@ -113,7 +115,7 @@ Call out the biggest drift risk:
 
 【四类内容判断】
 主类型：
-副作用：
+可能顺带起到的作用：
 现在的问题：
 应该按哪类内容改：
 
@@ -125,7 +127,7 @@ Call out the biggest drift risk:
 【客户语言】
 用户会说的词：
 偏内行的词：
-转译方向：
+怎么翻成客户听得懂的话：
 
 【防走偏提醒】
 最大偏差：
@@ -147,4 +149,4 @@ Call out the biggest drift risk:
 不要继续纠结：
 ```
 
-If there is reusable material, follow the write-confirmation rule in `SKILL.md`.
+如果发现有值得长期复用的内容，按 `SKILL.md` 的知识库写入规则先问用户。

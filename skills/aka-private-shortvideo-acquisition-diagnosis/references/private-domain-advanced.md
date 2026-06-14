@@ -1,83 +1,83 @@
-# Private-Domain Handoff Workflow
+# 私域承接进阶流程
 
-This is an advanced workflow. Do not use it by default.
+这是进阶流程，不默认使用。
 
-Use only when the user has leads, private messages, WeChat, group/community, form entries, price questions, consultation records, or a handoff problem.
+只有用户已经有线索、私信、微信、社群、表单、问价、咨询记录，或者明确说“公域来了人但接不住”，才进入这个流程。
 
-## Guiding Thought
+## 指导思想
 
-Private domain is not "operation"; it is sales handoff.
+私域不是“运营一下”，而是销售承接。
 
-Public content lets customers know you. Private domain lets customers recognize you, match demand, build trust, and move to the next action.
+公域内容让客户认识你，私域承接要做三件事：把需求对上，把信任补上，把下一步说清楚。
 
-The key chain:
+关键链路：
 
 ```text
-Match demand -> Build trust -> Execute efficiently
+对上需求 -> 补上信任 -> 推动下一步
 ```
 
-This workflow does not write full sales scripts. It diagnoses whether the lead is correctly layered, correctly handed off, and correctly moved.
+这个流程不写完整销售话术。它只诊断线索有没有分层、有没有接错、下一步有没有推进。
 
-## When Not To Use
+## 不该使用的情况
 
-Do not trigger this workflow if:
+下面情况不要进入私域承接：
 
-- The account has no clear product/service.
-- There are no leads.
-- There is no handoff entry.
-- The user only wants sales scripts before content/demand is clear.
+- 账号还没有清楚产品或服务。
+- 还没有线索。
+- 没有私信、微信、社群、表单这些承接入口。
+- 用户只是想在内容和需求没清楚前，先要一套销售话术。
 
-Route back to initialization, topic bank, or content diagnosis.
+遇到这些情况，退回初始化诊断、选题库或单条内容诊断。
 
-## L1-L4
+## L1-L4 用户分层
 
-- L1 observation: followed/added/claimed material, but no clear problem. Give value, cases, values, and trust. Do not sell hard.
-- L2 interest: interacted, claimed material, asks general methods, but no clear demand. Use low-barrier material and light interaction to reveal situation.
-- L3 demand: states pain, asks suitability, method, price, cycle. Diagnose, match solution, give similar cases.
-- L4 decision: accepts direction but stuck on price, trust, time, effect, or decision power. Handle final objection and push a clear decision.
+- L1 围观：关注了、加了微信、领了资料，但还没说清问题。给价值、案例、做事标准和信任，不要硬卖。
+- L2 感兴趣：互动过、领过资料、问泛泛的方法，但需求还不清楚。用低门槛资料或轻互动，让他把处境说出来。
+- L3 有需求：说出了痛点，问适不适合、怎么做、多少钱、多久。做诊断、匹配方案、给类似案例。
+- L4 要决策：方向认可，但卡在价格、信任、时间、效果、家人/老板/合伙人是否同意。处理最后异议，推动一个明确决定。
 
-## Three Trust Fields
+## 三个信任场
 
-- Moments/feed: persona trust, case evidence, service process, values. Not daily hard selling.
-- Group/community: batch value cultivation, case display, light interaction, problem collection. Not idle chat.
-- 1v1: diagnosis, matching, quote, objection handling, payment. Not purposeless small talk.
+- 朋友圈 / 动态：放人设信任、案例证据、服务过程、做事标准。不要天天硬广刷屏。
+- 社群：批量提供价值、展示案例、轻互动、收集问题。不要闲聊灌水。
+- 1v1：诊断、匹配、报价、处理异议、推动付款。不要没目的地尬聊。
 
-## Effective Lead Signals
+## 有效线索信号
 
-At least one:
+至少出现一条：
 
-- Specific situation.
-- Current block.
-- Asks if it fits them.
-- Asks price/cycle/delivery.
-- Sends material, screenshot, background.
-- Asks how to start.
-- Has time pressure or result pressure.
+- 说了具体处境。
+- 说了现在卡在哪里。
+- 问“我这种情况适不适合”。
+- 问价格、周期、交付方式。
+- 发材料、截图、背景信息。
+- 问怎么开始。
+- 有时间压力或结果压力。
 
-Weak or invalid:
+弱线索或无效线索：
 
-- Only asks for free material.
-- Only asks tool names.
-- Only says "I'll look first".
-- Only compliments.
-- Wants a full free solution.
-- No current problem.
-- Clearly not the target user.
+- 只要免费资料。
+- 只问工具名字。
+- 只说“我先看看”。
+- 只夸你。
+- 想白嫖完整方案。
+- 没有当前问题。
+- 明显不是目标用户。
 
-## Handoff Breakpoints
+## 承接断点
 
-Diagnose only the biggest breakpoint:
+只诊断最大的一个断点：
 
-- Wrong people.
-- Demand not exposed.
-- Trust missing.
-- Product entry missing.
-- Evidence missing.
-- Price/value mismatch.
-- Next action unclear.
-- Follow-up missing.
+- 人不对。
+- 需求没露出来。
+- 信任不够。
+- 产品入口不清楚。
+- 证据不够。
+- 价格和价值没对上。
+- 下一步动作不清楚。
+- 没有跟进。
 
-## Output
+## 输出
 
 ```text
 【承接结论】

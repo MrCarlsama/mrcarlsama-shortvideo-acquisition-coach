@@ -1,31 +1,31 @@
-# Topic Bank Workflow
+# 选题库建设流程
 
-Use this when the user wants systematic topics, a demand pool, a topic bank, or hotlist-based topic discovery.
+当用户想系统建设选题、需求池、选题库，或者想借热点找内容方向时，使用这个流程。
 
-## Boundary
+## 边界
 
-There are no "viral topics" in acquisition content. There are only precise topics.
+获客内容里没有所谓“爆款选题”，只有精准选题。
 
-A precise topic serves a clear user situation, hits a real demand, gives a solution direction, and moves the user to the next action.
+精准选题要服务一个清楚的用户处境，打中一个真实需求，给出一个解决方向，并把用户往下一步带。
 
-High views with wrong users is not a good topic. A lively title with no consultation is not a good topic.
+播放高但来的都是不买单的人，不算好选题。标题很热闹但没人咨询，也不算好选题。
 
-## Build Order
+## 建库顺序
 
-Do not start from titles.
+不要从标题开始。
 
 ```text
-User situation
--> User demand
--> Solution direction
--> Content type
--> Content entry point
--> Customer language
--> Topic expression
--> Next action
+用户处境
+-> 用户需求
+-> 解决方向
+-> 内容类型
+-> 内容切入口
+-> 客户语言
+-> 选题表达
+-> 下一步动作
 ```
 
-## Topic Card
+## 选题卡片
 
 ```text
 选题：
@@ -42,74 +42,74 @@ User situation
 复盘记录：
 ```
 
-## Content Entry Points
+## 内容切入口
 
-Use entry points only after demand is clear.
+只有用户需求清楚以后，才使用内容切入口。不要把切入口当技巧乱套。
 
-For physical businesses:
+实体生意常用切入口：
 
-- Big: large picture share, large action.
-- Full: full product display, full product packing.
-- Real: real service, real material, real personality.
-- Many: many people, many sales, many giveaways.
-- Novel: unseen, unexpected.
-- Craving: food/pleasure/physical desire.
+- 大：画面大、动作大、场面大。比如装修拆改现场、婚礼跟拍现场、排队门店、工厂发货。
+- 满：产品铺满、货架铺满、桌面摆满。比如卤味一整锅、门窗型材堆满车、服装一整排上新。
+- 真：服务真、材料真、性格真。比如师傅现场量尺、老板亲自验货、老师现场改作业。
+- 多：人多、单多、卖得多、送得多。比如门店排队、家长咨询多、老板一上午接了十几个电话。
+- 新奇特：没见过、没想到、和常识不一样。比如小户型这样做收纳、老房这样省预算、AI 这样帮门店回访。
+- 馋：餐饮、零食、饮品、美食类的本能吸引。画面要让人想吃、想试、想进店。
 
-For non-physical businesses:
+非实体生意常用切入口：
 
-- Name the customer's invisible enemy: say what the customer wants to say but cannot say clearly.
-- Think one step further for the customer: connect the demand chain.
-- Enemy's enemy is a friend: identify what the target customer commonly dislikes, fears, or rejects.
+- 替客户把憋着的话说出来：不是骂街，而是替他说清楚痛点。比如“老板不是不想用 AI，是不知道先改哪一步”。
+- 多替客户想一步：把需求链打通。比如用户问“怎么写提示词”，背后可能是“怎么少加班、少返工、少被老板催”。
+- 找共同讨厌的对象：目标客户一起反感、害怕、厌烦的东西。比如装修怕增项，家长怕无效补课，老板怕花钱买系统没人用。
 
-Do not use these as tricks. They must serve a real user demand.
+找“敌人”要往大处找，越能命中文化层面的共同反感，越容易形成认同。但不能乱骂人，最后必须回到用户需求和解决方向。
 
-## Drift Gate
+## 入库前防跑偏
 
-Before a topic enters the bank, answer:
+选题入库前必须回答：
 
-1. Does it serve a target user in the knowledge base?
-2. Does it correspond to a real user situation?
-3. Can the account deliver on the problem?
-4. Will it attract the wrong people?
-5. Is it user demand or creator expression?
-6. Is it a topic or just a traffic event?
-7. Is the next action clear?
+1. 它服务知识库里的哪类目标用户？
+2. 它对应一个真实处境吗？
+3. 账号能不能承接这个问题？
+4. 会不会吸引一堆不该来的人？
+5. 这是用户需求，还是创作者自己想表达？
+6. 这是选题，还是单纯蹭流量事件？
+7. 用户看完后下一步做什么？
 
-If 1-3 cannot be answered, put it in `待澄清`, not in the formal topic bank.
+如果 1-3 回答不清楚，放到 `待澄清`，不要进正式选题库。
 
-## Status
+## 选题状态
 
-- `待澄清`: user, demand, or solution direction unclear.
-- `待验证`: direction may work but lacks evidence.
-- `可拍`: user, demand, solution direction, content type, and next action are clear.
-- `已发布`: published and waiting for data/feedback.
-- `保留`: precise comments, messages, consultations, or customer language appeared.
-- `重做`: direction is right but language, structure, type, or handoff is wrong.
-- `淘汰`: wrong people, no demand, cannot deliver, or long-term no business signal.
+- `待澄清`：用户、需求或解决方向不清楚。
+- `待验证`：方向可能成立，但还没有证据。
+- `可拍`：用户、需求、解决方向、内容类型、下一步动作都清楚。
+- `已发布`：已经发布，等待数据和反馈。
+- `保留`：出现精准评论、私信、咨询、客户语言或案例线索。
+- `重做`：方向对，但客户语言、结构、内容类型或承接不对。
+- `淘汰`：吸引错人、没有需求、承接不了，或者长期没有业务信号。
 
-## Douyin Hotlist Subflow
+## 抖音热榜子流程
 
-Use this only when the user wants hot topics, fast account warming, or exposure acceleration.
+用户想蹭热点、快速让账号热起来、做曝光测试时，才使用这个流程。
 
-Hot topics are attention entrances, not account direction.
+热点只是注意力入口，不是账号方向。
 
-Rules:
+规则：
 
-- Only use hot topics related to the user's service content, target user, or user situation.
-- Prefer Douyin hotlist because its daily active user base is large enough to represent broad attention.
-- If a Douyin hotlist skill/tool is available, use it to fetch the latest hotlist. If not, ask the user to provide the current hotlist or screenshots.
-- Filter hot topics against the user's knowledge base.
-- The first sentence can borrow attention; the body must return to the user's business and precise user.
+- 只蹭和自己服务内容、目标用户、用户处境有关的热点，不乱蹭。
+- 优先看抖音热榜。抖音日活够大，热榜能代表当下大部分人的注意力。
+- 如果有抖音热榜 skill 或工具，就实时获取最新热榜；没有就让用户提供当前热榜截图。
+- 热点必须和用户知识库对照，不能脱离账号底盘。
+- 开头可以借热点，正文必须接回自己的生意、精准用户和解决方向。
 
-Hot topic screening:
+热点筛选：
 
-1. Is this hot topic related to the service content?
-2. Would the target user care?
-3. Can it connect back to a user situation?
-4. Can the creator provide a judgment or solution direction?
-5. Is the next action clear?
+1. 这个热点和我的服务内容有关吗？
+2. 我的目标用户会关心吗？
+3. 能不能接回一个真实用户处境？
+4. 我能不能给出判断或解决方向？
+5. 看完后下一步动作清楚吗？
 
-Hot topic card:
+热点卡片：
 
 ```text
 热点：
@@ -123,4 +123,4 @@ Hot topic card:
 是否建议入库：
 ```
 
-If it cannot connect back to user situation, do not use it.
+接不回用户处境的热点，不用。
